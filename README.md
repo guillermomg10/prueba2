@@ -1,7 +1,3 @@
 # prueba2
 
-
-
-System.out.printn("dd");
-systemeeeeegtghhhhh
-hhhhh
+System.out.printn("prueba");
